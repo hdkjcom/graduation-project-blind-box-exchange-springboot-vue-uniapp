@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 在线体验（核心卖点）
+## 🚀 在线体验
 
 🔥 已上线微信小程序，可直接体验！
 
@@ -31,7 +31,8 @@
 👉 支持真实功能体验（非 demo）
 
 📱 扫码体验👇  
-（这里放你的小程序码）
+![下载](https://github.com/user-attachments/assets/a9a77a47-81e7-4b38-9484-fa820cffc809)
+
 
 ---
 
@@ -47,13 +48,15 @@
 
 ## 📸 项目展示
 
-（这里放你的截图，建议4~6张）
+<img width="585" height="1266" alt="微信图片_20260318144040_25_8" src="https://github.com/user-attachments/assets/79d458b2-2047-4203-b457-76712582e86b" />
+<img width="585" height="1266" alt="微信图片_20260318144036_24_8" src="https://github.com/user-attachments/assets/efe974d6-6da8-494d-a00e-34e7b1adfaa9" />
+<img width="585" height="1266" alt="微信图片_20260318144032_23_8" src="https://github.com/user-attachments/assets/214e0637-f431-4939-bdcc-349e804fd6e9" />
+<img width="585" height="1266" alt="微信图片_20260318144027_22_8" src="https://github.com/user-attachments/assets/c2adab69-e18d-4b06-ad16-31d8e5cbbed1" />
+<img width="585" height="1266" alt="微信图片_20260318144023_21_8" src="https://github.com/user-attachments/assets/a246bfa4-4e8c-411f-ba18-68d54daa6145" />
+<img width="585" height="1266" alt="微信图片_20260318144020_20_8" src="https://github.com/user-attachments/assets/3f617110-b8a9-4a3a-a7b8-84f310b9f9f0" />
+<img width="585" height="1266" alt="微信图片_20260318144015_19_8" src="https://github.com/user-attachments/assets/d6a0b6f1-ddb2-44c2-8aaf-4c306f7088d3" />
+<img width="585" height="1266" alt="微信图片_20260318144014_18_8" src="https://github.com/user-attachments/assets/7a04c6eb-7964-4aba-87c6-6be66abdfe06" />
 
-- 🏠 首页盲盒列表  
-- 🎁 发布盲盒  
-- 🔄 互换流程  
-- 💬 聊天界面  
-- 🛠 后台管理系统  
 
 ---
 
@@ -103,7 +106,7 @@
 
 ---
 
-## 💰 服务内容（重点）
+## 💰 服务内容 (包售后：全流程部署+技术指导)
 
 ✔ 提供完整源码（可运行）  
 ✔ 提供部署指导（远程协助）  
@@ -111,12 +114,14 @@
 
 ---
 
-## 📩 获取方式（成交入口）
+## 📩 获取方式
 
-👉 微信：xxxxxxx  
-👉 QQ：xxxxxxx  
+👉 QQ：1251697588
 
 （备注：毕业设计 / 盲盒项目）
+
+ ![微信图片_20260318143810_17_8](https://github.com/user-attachments/assets/7ae99e1c-4f12-491a-852b-d080f783d022)
+
 
 ---
 
